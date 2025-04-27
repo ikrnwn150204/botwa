@@ -1,0 +1,52 @@
+{
+  "639102056256@s": {
+    "whatsapp": {
+      "net": {
+        "level": 1,
+        "sentCount": 1,
+        "contactCount": 1,
+        "state": null,
+        "targetNumber": "6281904366395",
+        "alias": "ikur"
+      }
+    }
+  },
+  "6281904366395@s": {
+    "whatsapp": {
+      "net": {
+        "level": 1,
+        "sentCount": 0,
+        "contactCount": 0,
+        "state": null
+      }
+    }
+  },
+  "status@broadcast": {
+    "level": 1,
+    "exp": 14,
+    "sentCount": 0,
+    "contactCount": 0,
+    "state": null,
+    "spamCount": 0,
+    "banned": false,
+    "bannedTime": 0,
+    "bannedPermanently": false,
+    "autolevelup": true,
+    "role": "Newbie"
+  },
+  "120363041270320617@g": {
+    "us": {
+      "level": 1,
+      "exp": 14,
+      "sentCount": 0,
+      "contactCount": 0,
+      "state": null,
+      "spamCount": 0,
+      "banned": false,
+      "bannedTime": 0,
+      "bannedPermanently": false,
+      "autolevelup": true,
+      "role": "Newbie"
+    }
+  }
+}

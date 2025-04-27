@@ -1,0 +1,14 @@
+{
+  "6281234567890@s.whatsapp.net": {
+    "expiresAt": "2025-05-06T00:00:00.000Z",
+    "type": "7days",
+    "activatedAt": "2023-04-29T00:00:00.000Z",
+    "activatedBy": "6281904366395@s.whatsapp.net"
+  },
+  "6289876543210@s.whatsapp.net": {
+    "expiresAt": "2099-12-31T23:59:59.000Z",
+    "type": "lifetime",
+    "activatedAt": "2023-04-15T00:00:00.000Z",
+    "activatedBy": "6281904366395@s.whatsapp.net"
+  }
+}

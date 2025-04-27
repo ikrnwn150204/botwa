@@ -1,0 +1,33 @@
+{
+    "name": "confess-bot",
+    "version": "1.0.0",
+    "description": "Anonymous Confess Bot for WhatsApp (Baileys)",
+    "type": "module",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+        "dev": "nodemon main.js"
+    },
+    "keywords": [
+        "whatsapp-bot",
+        "confess",
+        "anonymous",
+        "baileys"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "@fizzxydev/baileys-pro": "^8.6.11",
+        "@whiskeysockets/baileys": "^6.7.16",
+        "axios": "^1.9.0",
+        "chalk": "^4.1.2",
+        "dotenv": "^16.5.0",
+        "lowdb": "^1.0.0",
+        "moment-timezone": "^0.5.48",
+        "node-cron": "^3.0.3",
+        "qrcode-terminal": "^0.12.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}

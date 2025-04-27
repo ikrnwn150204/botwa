@@ -1,0 +1,13 @@
+{
+  "limitFreePerDay": 10,
+  "contactsFreePerDay": 1,
+  "limitPremiumPerDay": -1,
+  "contactsPremiumPerDay": 5,
+  "price7Days": 2000,
+  "priceLifetime": 5000,
+  "autoResetTime": "00:00",
+  "notificationEnabled": true,
+  "maintenanceMode": false,
+  "botVersion": "1.0.0",
+  "welcomeMessage": "👋 Hai, {name}!\nLevel: {level} • Status: {status}\nLimit hari ini: {sent}/{limit} pesan • Kontak tersisa: {contacts}\nKetik .menu untuk lihat daftar perintah."
+}
